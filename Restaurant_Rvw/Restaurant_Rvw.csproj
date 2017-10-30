@@ -196,8 +196,14 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Answer.cs" />
+    <Compile Include="Models\AnswerOpt.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Question.cs" />
+    <Compile Include="Models\Restaurant.cs" />
+    <Compile Include="Models\Review.cs" />
+    <Compile Include="Models\WebSiteComments.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
